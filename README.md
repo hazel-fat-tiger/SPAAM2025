@@ -1,1 +1,1 @@
-# SPAAM2025
+# SPAAM2025Just an example repo
